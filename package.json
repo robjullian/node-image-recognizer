@@ -1,0 +1,20 @@
+{
+  "name": "image-recognizer",
+  "version": "1.0.0",
+  "description": "A simple image recognizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brain.js"
+  ],
+  "author": "Robin Jullian",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^1.6.1",
+    "image-to-base64": "^2.0.1",
+    "lowdb": "^1.0.0",
+    "node-fetch": "^2.3.0"
+  }
+}
